@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "path: $count"
+echo $PATH | tr ":" "\n" | wc -l
