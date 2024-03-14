@@ -1,2 +1,2 @@
-#!/bin/bash
+webstack
 seconde work
